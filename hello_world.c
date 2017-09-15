@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("\nHellow world 6\n");
+	printf("\nHellow world 7\n");
 	return 0;
 }
